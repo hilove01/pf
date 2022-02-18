@@ -1,6 +1,15 @@
 // import React, { Component } from 'react';
 import Customer from './components/Customer';
 import './App.css';
+import { Table, TableBody, TableHead, TableRow, TableCell, Paper } from '@material-ui/core';
+import { withStyles } from '@material-ui/styles';
+/*
+import { Table } from '@material-ui/core/Table';
+import { TableHead } from '@material-ui/core/TableHead';
+import { TableBody } from '@material-ui/core/TableBody';
+import { TableRow } from '@material-ui/core/TableRow';
+import { TableCell} from '@material-ui/core/TableCell';
+*/
 
 /* function App() {
   return (
@@ -18,6 +27,17 @@ import './App.css';
     );
   }
 } */
+
+const styles = {
+  root: {
+    width: '100%',
+    //marginTop: theme.spacing(3),
+    overflowX: 'auto'
+  },
+  table: {
+    minwidth: 1080
+  }
+}
 
 const customer = [
 {
@@ -47,11 +67,26 @@ const customer = [
 ]
 
 function App() {
+  //const { classes } = this.props;
   return (
-    <div>
-      {customer.map(c => { return ( <Customer key={c.id} id={c.id} image={c.image} name={c.name} birthday={c.birthday} gender={c.gender} job={c.job}/> ); }) }
-    </div>
+    <Paper className={styles.root}>
+      <Table className={styles.table}>
+        <TableHead>
+          <TableRow>
+            <TableCell>번호</TableCell>
+            <TableCell>이미지</TableCell>
+            <TableCell>이름</TableCell>
+            <TableCell>생년월일</TableCell>
+            <TableCell>성별</TableCell>
+            <TableCell>직업</TableCell>
+          </TableRow>
+        </TableHead>
+        <TableBody>
+          {customer.map(c => { return ( <Customer key={c.id} id={c.id} image={c.image} name={c.name} birthday={c.birthday} gender={c.gender} job={c.job}/> ); }) }
+        </TableBody>
+      </Table>
+    </Paper>
   );
 } 
 
-export default App;
+export default withStyles(styles)(App);
