@@ -24,7 +24,7 @@
 <li>php Legacy code refactoring</li>
 <li>CI(codeigniter) 프레임워크를 이용한 MVC패턴 개발</li>
 <li>linux 환경의 apache, nginx 등을 이용한 웹서버 구축</li>
-<li>SVN,GIT 등을 이용한 버전관리 작업</li>
+<li>SVN, GIT 등을 이용한 버전관리 작업</li>
 <li>Mysql 등을 이용한 DB작업 및 최적화</li>
 <li>Javascript, JQuery, Ajax 등을 이용한 html 동적 기능추가</li>
 <li>CSS, Html5 등을 이용한 퍼블리싱 작업</li>
