@@ -44,9 +44,16 @@
 <li>Git</li>
 <li>관리자 cms 구현</li>
 </ul>
-<p dir="auto"><관련프로젝트></p>
+<p dir="auto"><관련 프로젝트></p>
+<p dir="auto"><a href="http://tourmalaysia.co.kr" rel="nofollow">- 투어말레이시아</a></p>
 <ul dir="auto">
-<li>페이토스몰</li>
+<li>디자이너 1명, 퍼블 2명과 협업</li>
+<li>PHP, MySQL, javascript (ajax)</li>
+<li>영카트 솔루션 기반으로 제작</li>
+<li>말레이시아 여행사 웹: 여행 상품과 날짜를 선택하여 예약 및 결제를 진행하고 관리자가 확인함</li>
+<li>관리자가 여행상품 등록시 말레이시아 화폐단위인 `링깃`으로 지정하면, 사용자 view페이지와 결제시에</li>
+<li>현재 환율에 맞게 한화로 표시 및 결제됨 (네이버 환율정보 파싱하여 저장된 링깃에 맞게 환율 적용)</li>
+<li>예약날짜 지정, 예약상품 결제 기능</li>
 </ul>
 
 <h3 dir="auto"><a id="user-content-개발1" class="anchor" aria-hidden="true" href="#개발1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>개발</h3>
