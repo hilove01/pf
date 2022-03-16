@@ -37,9 +37,7 @@
 <p dir="auto">[디앤애드컴퍼니]</p>
 <p dir="auto">그누보드, 영카트 등의 독립쇼핑몰 커스터마이징, 플러그인 개발 및 유지보수</p>
 <ul dir="auto">
-<li>AWS(Amazon Web Services) EC2</li>
 <li>php 7.0</li>
-<li>codeigniter framework</li>
 <li>ubuntu, centos</li>
 <li>Mysql, Maria DB</li>
 <li>Redmine</li>
