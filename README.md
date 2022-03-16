@@ -29,7 +29,7 @@
 <li>Javascript, JQuery, Ajax 등을 이용한 html 동적 기능추가</li>
 <li>CSS, Html5 등을 이용한 퍼블리싱 작업</li>
 <li>그누보드, 영카트 등의 독립쇼핑몰 커스터마이징, 플러그인 개발 및 유지보수</li>
-<li>Google, facebook, Kakao 등의 API 연동</li>
+<li>Google, facebook, Kakao, Naver 등의 API 연동</li>
 <li>Kcp , 이니시스 등의 web,mobile PG 모듈 연동</li>
 </ul>
 
