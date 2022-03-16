@@ -83,10 +83,9 @@
 <p dir="auto">사이트 주소 : <a href="http://www.danggunweb.com/intro" rel="nofollow">http://www.danggunweb.com/intro</a></p>
 <h3 dir="auto"><a id="user-content-devops" class="anchor" aria-hidden="true" href="#devops"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>DevOps</h3>
 <ul dir="auto">
-<li>JetBrains phpStorm IDE 사용</li>
+<li>Visual Studio Code, Edit Plus, JetBrains phpStorm IDE 사용</li>
 <li>redMine을 사용한 이슈 트래킹</li>
 <li>테스트 주도 개발 실천</li>
 <li>GitHub를 통해 매 Pull Request 마다 코드 리뷰 실천</li>
-<li><a href="https://www.whatap.io/" rel="nofollow">https://www.whatap.io/</a> 모니터링을 이용한 서버 버그 트래킹</li>
 </ul>
 </article>
