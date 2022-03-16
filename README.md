@@ -45,7 +45,7 @@
 <li>관리자 cms 구현</li>
 </ul>
 <p dir="auto"><관련 프로젝트></p>
-<p dir="auto"><a href="http://tourmalaysia.co.kr" rel="nofollow">- 투어말레이시아</a></p>
+<p dir="auto"><a href="http://tourmalaysia.co.kr" rel="nofollow" target="_blank">- 투어말레이시아</a></p>
 <ul dir="auto">
 <li>디자이너 1명, 퍼블 2명과 협업</li>
 <li>PHP, MySQL, javascript (ajax)</li>
