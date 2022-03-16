@@ -1,86 +1,102 @@
-#소개
-황윤희
-Email : hilove0920@naver.com
-Github : https://github.com/hilove01/pf.github.io
-경력
-투어마케팅코리아
-프론트앤드/백앤드 웹/서버 개발자
-기간 : 2018.10 ~ 현재 재직중
-네오베이
-프론트앤드/백앤드 웹/서버 개발자
-기간 : 2017.06 ~ 2018.10
-옐로오투오
-프론트앤드/백앤드 웹/서버 개발자
-기간 : 2014.12 ~ 2017.06
-보유기술
-php Legacy code refactoring
-CI(codeigniter) 프레임워크를 이용한 MVC패턴 개발
-linux 환경의 apache, nginx 등을 이용한 웹서버 구축
-AWS EC2를 이용한 클라우드 서비스 작업
-SVN,GIT 등을 이용한 버전관리 작업
-Mysql, Mssql, Aws RDS 등을 이용한 DB작업 및 최적화
-Javascript, JQuery, Ajax 등을 이용한 html 동적 기능추가
-CSS, Html5 등을 이용한 퍼블리싱 작업
-eBay Shopping API를 이용한 실시간 경매,입찰 시스템 개발 및 유지보수
-Amazon product API를 이용한 실시간 Amazon 상품 정보 연동 및 판매 시스템 개발 및 유지보수
-OTA API(Online Travel API)를 이용한 실시간 예약 시스템 개발 및 유지보수
-그누보드, 영카트, 고도몰, 워드프레스등의 독립쇼핑몰 커스터마이징, 플러그인 개발 및 유지보수
-Google, MS, Ebay, Amazon, facebook, Kakao 등의 API 연동
-Kcp , 이니시스, Uplus, Allat 등의 web,mobile PG 모듈 연동
-개발
-[로얄캐리비안크루즈][알라모렌터카]
-
-OTA API (Royal Caribbean Cruises API, Alamo Renter Car API Online Travel API)를 이용한 실시간 크루즈, 렌터카 예약 서비스 개발 및 유지보수
-
-AWS(Amazon Web Services) EC2
-php 7.2
-codeigniter framework
-Aws linux
-ubuntu, centos
-Mysql, Maria DB
-Redmine
-Git
-AWS Elasticsearch, AWS CodeComit
-관리자 cms 구현 등의 개발환경, 개발기술들을 사용
-사이트 주소 : https://rccl.kr ( https://www.royalcaribbean.com 와 연동된 국내사이트)
-
-사이트 주소 : https://alamo.kr ( https://www.alamo.com 와 연동된 국내사이트)
-
-개발
-[네오베이]
-
-Codeigniter와 eBay Shopping API를 이용한 실시간 eBay 경매,입찰,구매사이트 개발 및 유지보수
-
-php 7.0
-codeigniter framework
-ubuntu, centos
-Mysql, Maria DB
-Redmine
-Git, SVN
-미국, 영국, 독일, Ebay상품 실시간연동
-관리자 cms 구현
-입찰, 예약입찰, 흥정기능
-사이트 주소 : http://www.neobay.co.kr/
-
-개발
-[옐로오투오]
-
-php기반 CI(codeigniter) 를 이용한 웹사이트 개발 및 유지보수
-
-php 5.6
-codeigniter framework
-ubuntu, centos
-Mysql, Maria DB
-JIRA
-SVN
-펜션,리조트,여행사,쇼핑몰 플러그인 제작 및 유지보수
-당근(danggun) 자체솔루션 사용
-관리자 cms 구현
-사이트 주소 : http://www.danggunweb.com/intro
-
-DevOps
-JetBrains phpStorm IDE 사용
-redMine을 사용한 이슈 트래킹
-테스트 주도 개발 실천
-GitHub를 통해 매 Pull Request 마다 코드 리뷰 실천
-https://www.whatap.io/ 모니터링을 이용한 서버 버그 트래킹
+<article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-소개" class="anchor" aria-hidden="true" href="#소개"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>소개</h1>
+<ul dir="auto">
+<li>황윤희</li>
+<li>Email : <a href="mailto:hilove0920@naver.com">hilove0920@naver.com</a></li>
+<li>Github : <a href="https://github.com/hilove01/pf.github.io">https://github.com/hilove01/pf.github.io</a></li>
+</ul>
+<h1 dir="auto"><a id="user-content-경력" class="anchor" aria-hidden="true" href="#경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>경력</h1>
+<ul dir="auto">
+<li><a href="https://rccl.kr" rel="nofollow">투어마케팅코리아</a>
+<ul dir="auto">
+<li>프론트앤드/백앤드 웹/서버 개발자</li>
+<li>기간 : 2018.10 ~ 현재 재직중</li>
+</ul>
+</li>
+<li><a href="https://neobay.co.kr" rel="nofollow">네오베이</a>
+<ul dir="auto">
+<li>프론트앤드/백앤드 웹/서버 개발자</li>
+<li>기간 : 2017.06 ~ 2018.10</li>
+</ul>
+</li>
+<li><a href="http://www.yelloo2o.com/kr/" rel="nofollow">옐로오투오</a>
+<ul dir="auto">
+<li>프론트앤드/백앤드 웹/서버 개발자</li>
+<li>기간 : 2014.12 ~ 2017.06</li>
+</ul>
+</li>
+</ul>
+<h1 dir="auto"><a id="user-content-보유기술" class="anchor" aria-hidden="true" href="#보유기술"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>보유기술</h1>
+<ul dir="auto">
+<li>php Legacy code refactoring</li>
+<li>CI(codeigniter) 프레임워크를 이용한 MVC패턴 개발</li>
+<li>linux 환경의 apache, nginx 등을 이용한 웹서버 구축</li>
+<li>AWS EC2를 이용한 클라우드 서비스 작업</li>
+<li>SVN,GIT 등을 이용한 버전관리 작업</li>
+<li>Mysql, Mssql, Aws RDS 등을 이용한 DB작업 및 최적화</li>
+<li>Javascript, JQuery, Ajax 등을 이용한 html 동적 기능추가</li>
+<li>CSS, Html5 등을 이용한 퍼블리싱 작업</li>
+<li>eBay Shopping API를 이용한 실시간 경매,입찰 시스템 개발 및 유지보수</li>
+<li>Amazon product API를 이용한 실시간 Amazon 상품 정보 연동 및 판매 시스템 개발 및 유지보수</li>
+<li>OTA API(Online Travel API)를 이용한 실시간 예약 시스템 개발 및 유지보수</li>
+<li>그누보드, 영카트, 고도몰, 워드프레스등의 독립쇼핑몰 커스터마이징, 플러그인 개발 및 유지보수</li>
+<li>Google, MS, Ebay, Amazon, facebook, Kakao 등의 API 연동</li>
+<li>Kcp , 이니시스, Uplus, Allat 등의 web,mobile PG 모듈 연동</li>
+</ul>
+<h3 dir="auto"><a id="user-content-개발" class="anchor" aria-hidden="true" href="#개발"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>개발</h3>
+<p dir="auto">[로얄캐리비안크루즈][알라모렌터카]</p>
+<p dir="auto">OTA API (Royal Caribbean Cruises API, Alamo Renter Car API Online Travel API)를 이용한
+실시간 크루즈, 렌터카 예약 서비스 개발 및 유지보수</p>
+<ul dir="auto">
+<li>AWS(Amazon Web Services) EC2</li>
+<li>php 7.2</li>
+<li>codeigniter framework</li>
+<li>Aws linux</li>
+<li>ubuntu, centos</li>
+<li>Mysql, Maria DB</li>
+<li>Redmine</li>
+<li>Git</li>
+<li>AWS Elasticsearch, AWS CodeComit</li>
+<li>관리자 cms 구현
+등의 개발환경, 개발기술들을 사용</li>
+</ul>
+<p dir="auto">사이트 주소 : <a href="https://rccl.kr" rel="nofollow">https://rccl.kr</a> ( <a href="https://www.royalcaribbean.com" rel="nofollow">https://www.royalcaribbean.com</a> 와 연동된 국내사이트)</p>
+<p dir="auto">사이트 주소 : <a href="https://alamo.kr" rel="nofollow">https://alamo.kr</a> ( <a href="https://www.alamo.com" rel="nofollow">https://www.alamo.com</a> 와 연동된 국내사이트)</p>
+<h3 dir="auto"><a id="user-content-개발-1" class="anchor" aria-hidden="true" href="#개발-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>개발</h3>
+<p dir="auto">[네오베이]</p>
+<p dir="auto">Codeigniter와 eBay Shopping API를 이용한 실시간 eBay 경매,입찰,구매사이트 개발 및 유지보수</p>
+<ul dir="auto">
+<li>php 7.0</li>
+<li>codeigniter framework</li>
+<li>ubuntu, centos</li>
+<li>Mysql, Maria DB</li>
+<li>Redmine</li>
+<li>Git, SVN</li>
+<li>미국, 영국, 독일, Ebay상품 실시간연동</li>
+<li>관리자 cms 구현</li>
+<li>입찰, 예약입찰, 흥정기능</li>
+</ul>
+<p dir="auto">사이트 주소 : <a href="http://www.neobay.co.kr/" rel="nofollow">http://www.neobay.co.kr/</a></p>
+<h3 dir="auto"><a id="user-content-개발-2" class="anchor" aria-hidden="true" href="#개발-2"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>개발</h3>
+<p dir="auto">[옐로오투오]</p>
+<p dir="auto">php기반 CI(codeigniter) 를 이용한 웹사이트 개발 및 유지보수</p>
+<ul dir="auto">
+<li>php 5.6</li>
+<li>codeigniter framework</li>
+<li>ubuntu, centos</li>
+<li>Mysql, Maria DB</li>
+<li>JIRA</li>
+<li>SVN</li>
+<li>펜션,리조트,여행사,쇼핑몰 플러그인 제작 및 유지보수</li>
+<li>당근(danggun) 자체솔루션 사용</li>
+<li>관리자 cms 구현</li>
+</ul>
+<p dir="auto">사이트 주소 : <a href="http://www.danggunweb.com/intro" rel="nofollow">http://www.danggunweb.com/intro</a></p>
+<h3 dir="auto"><a id="user-content-devops" class="anchor" aria-hidden="true" href="#devops"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>DevOps</h3>
+<ul dir="auto">
+<li>JetBrains phpStorm IDE 사용</li>
+<li>redMine을 사용한 이슈 트래킹</li>
+<li>테스트 주도 개발 실천</li>
+<li>GitHub를 통해 매 Pull Request 마다 코드 리뷰 실천</li>
+<li><a href="https://www.whatap.io/" rel="nofollow">https://www.whatap.io/</a> 모니터링을 이용한 서버 버그 트래킹</li>
+</ul>
+</article>
