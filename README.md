@@ -74,7 +74,6 @@
 <li>codeigniter framework</li>
 <li>ubuntu, centos</li>
 <li>Mysql, Maria DB</li>
-<li>JIRA</li>
 <li>SVN</li>
 <li>펜션,리조트,여행사,쇼핑몰 플러그인 제작 및 유지보수</li>
 <li>당근(danggun) 자체솔루션 사용</li>
