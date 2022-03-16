@@ -12,7 +12,7 @@
 <li>기간 : 2018.10 ~ 2020.12</li>
 </ul>
 </li>
-<li><a href="http://www.yelloo2o.com/kr/" rel="nofollow">옐로오투오</a>
+<li>옐로오투오</li>
 <ul dir="auto">
 <li>프론트앤드/백앤드 웹/서버 개발자</li>
 <li>기간 : 2013.01 ~ 2017.12</li>
