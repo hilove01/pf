@@ -6,7 +6,7 @@
 </ul>
 <h1 dir="auto"><a id="user-content-경력" class="anchor" aria-hidden="true" href="#경력"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>경력</h1>
 <ul dir="auto">
-<li><a href="http://dandadcompany.co.kr/" rel="nofollow">(주)디앤애드컴퍼니</a>
+<li><a href="http://dandadcompany.co.kr/" rel="nofollow">디앤애드컴퍼니</a>
 <ul dir="auto">
 <li>프론트앤드/백앤드 웹/서버 개발자</li>
 <li>기간 : 2018.10 ~ 2020.12</li>
@@ -24,17 +24,13 @@
 <li>php Legacy code refactoring</li>
 <li>CI(codeigniter) 프레임워크를 이용한 MVC패턴 개발</li>
 <li>linux 환경의 apache, nginx 등을 이용한 웹서버 구축</li>
-<li>AWS EC2를 이용한 클라우드 서비스 작업</li>
 <li>SVN,GIT 등을 이용한 버전관리 작업</li>
-<li>Mysql, Mssql, Aws RDS 등을 이용한 DB작업 및 최적화</li>
+<li>Mysql, Mssql 등을 이용한 DB작업 및 최적화</li>
 <li>Javascript, JQuery, Ajax 등을 이용한 html 동적 기능추가</li>
 <li>CSS, Html5 등을 이용한 퍼블리싱 작업</li>
-<li>eBay Shopping API를 이용한 실시간 경매,입찰 시스템 개발 및 유지보수</li>
-<li>Amazon product API를 이용한 실시간 Amazon 상품 정보 연동 및 판매 시스템 개발 및 유지보수</li>
-<li>OTA API(Online Travel API)를 이용한 실시간 예약 시스템 개발 및 유지보수</li>
-<li>그누보드, 영카트, 고도몰, 워드프레스등의 독립쇼핑몰 커스터마이징, 플러그인 개발 및 유지보수</li>
-<li>Google, MS, Ebay, Amazon, facebook, Kakao 등의 API 연동</li>
-<li>Kcp , 이니시스, Uplus, Allat 등의 web,mobile PG 모듈 연동</li>
+<li>그누보드, 영카트 등의 독립쇼핑몰 커스터마이징, 플러그인 개발 및 유지보수</li>
+<li>Google, facebook, Kakao 등의 API 연동</li>
+<li>Kcp , 이니시스 등의 web,mobile PG 모듈 연동</li>
 </ul>
 <h3 dir="auto"><a id="user-content-개발" class="anchor" aria-hidden="true" href="#개발"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>개발</h3>
 <p dir="auto">[로얄캐리비안크루즈][알라모렌터카]</p>
