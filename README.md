@@ -194,6 +194,5 @@ FrameWork : CI
 <li>Visual Studio Code, Edit Plus, JetBrains phpStorm IDE 사용</li>
 <li>redMine을 사용한 이슈 트래킹</li>
 <li>테스트 주도 개발 실천</li>
-<li>GitHub를 통해 매 Pull Request 마다 코드 리뷰 실천</li>
 </ul>
 </article>
